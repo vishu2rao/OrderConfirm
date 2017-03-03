@@ -13,11 +13,7 @@ You are looking for the interface :
        c) Based on user clicks return confirmed TransactionID and ServiceID.
 
 
-Here is the code I have done using Spring based rest services which will above  tasks: This complete eclipse project so that you can modify if required the way you wanted   @below google drive link          
-
-https://drive.google.com/file/d/0BwF-GwyII38geXAyZzY1d190dzA/view?usp=sharing
-
-
+Here is the code I have done using Spring based rest services which will above  tasks: This complete eclipse project so that you can modify if required the way you wanted  
 
 What it does is it will take id's like below from you like  http://localhost:8080/eventing/createlinks?tid=tr123124234,sid=servid234235345
 Will return you clickable link(s) like..
